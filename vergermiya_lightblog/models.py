@@ -3,11 +3,9 @@ Vergermiya lightblog - models.py
 """
 
 from flask_sqlalchemy import SQLAlchemy
-
+from vergermiya_lightblog.extensions import bcrypt
 
 db = SQLAlchemy()
-
-
 posts_tags = db.Table('posts_tags',
                       db.Column('post_id', db.String(45), db.ForeignKey('posts.id')),
                       db.Column('tag_id', db.String(45), db.ForeignKey('tags.id')))
@@ -26,10 +24,16 @@ class User(db.Model):
     def __init__(self, id, username, password):
         self.id = id
         self.username = username
-        self.password = password
+        self.password = self.set_password(password)
 
     def __repr__(self):
         return "<User '{0}'>".format(self.username)
+
+    def set_password(self, password):
+        return bcrypt.generate_password_hash(password)
+
+    def check_password(self, password):
+        return bcrypt.check_password_hash(self.password, password)
 
 
 class Post(db.Model):

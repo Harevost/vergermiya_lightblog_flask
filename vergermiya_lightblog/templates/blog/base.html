@@ -51,9 +51,21 @@
   <div class="container">
     <div class="jumbotron">
       <!-- Replace the route function to URL: `/` -->
-      <h1><a href="{{ url_for('blog.index')}} ">VergerMiya</a></h1>
+      <h1><a href="{{ url_for('blog.index')}}">VergerMiya</a></h1>
         <p>Welcome to VergerMiya</p>
     </div>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="button" class="close" data-dismiss="alert" aria-label="Close">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            {{ messages }}
+          </div>
+        {% endfor%}
+      {% endif %}
+    {% endwith %}
     {% block body %}
         body_content
     {% endblock %}

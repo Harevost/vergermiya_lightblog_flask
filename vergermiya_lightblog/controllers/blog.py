@@ -2,11 +2,11 @@ from uuid import uuid4
 from os import path
 from datetime import datetime
 
-from flask import render_template, Blueprint
+from flask import render_template, Blueprint, redirect, url_for
 from sqlalchemy import func
 
 from vergermiya_lightblog.models import db, User, Post, Tag, Comment, posts_tags
-from vergermiya_lightblog.forms import CommentForm
+from vergermiya_lightblog.forms import CommentForm, PostForm
 
 
 blog_blueprint = Blueprint(
@@ -106,3 +106,41 @@ def user(username):
     return render_template('user.html',
                            user=user, posts=posts,
                            recent_post=recent_post, top_tags=top_tags)
+
+
+@blog_blueprint.route('/new', methods=['GET', 'POST'])
+def new_post():
+    form = PostForm()
+
+    if form.validate_on_submit():
+        new_post = Post(id=str(uuid4()), title=form.title.data)
+        new_post.text = form.text.data
+        new_post.publish_date = datetime.now()
+
+        db.session.add(new_post)
+        db.session.commit()
+        return redirect(url_for('blog.index'))
+
+    return render_template('new_post.html', form=form)
+
+
+@blog_blueprint.route('/edit/<string:id>', methods=['GET', 'POST'])
+def edit_post(id):
+    """View function for edit_post."""
+
+    post = Post.query.get_or_404(id)
+    form = PostForm()
+
+    if form.validate_on_submit():
+        post.title = form.title.data
+        post.text = form.text.data
+        post.datetime = datetime.now()
+
+        # Update the post
+        db.session.add(post)
+        db.session.commit()
+        return redirect(url_for('blog.post', post_id=post.id))
+
+    form.title.data = post.title
+    form.text.data = post.text
+    return render_template('edit_post.html', form=form, post=post)

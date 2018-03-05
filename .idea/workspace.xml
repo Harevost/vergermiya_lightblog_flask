@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bb7d59f-2383-4534-aca0-2a3a0fbce8eb" name="Default" comment="" />
+    <list default="true" id="3bb7d59f-2383-4534-aca0-2a3a0fbce8eb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/controllers/account.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/extensions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/edit_post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/login.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/new_post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/register.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" afterPath="$PROJECT_DIR$/venv/bin/python" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.5" afterPath="$PROJECT_DIR$/venv/bin/python3.5" />
+      <change beforePath="$PROJECT_DIR$/venv/include/python3.5m" afterPath="$PROJECT_DIR$/venv/include/python3.5m" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/__future__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/__future__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/_bootlocale.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/_bootlocale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/_collections_abc.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/_collections_abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/_dummy_thread.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/_dummy_thread.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/_weakrefset.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/_weakrefset.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/abc.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/base64.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/base64.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/bisect.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/bisect.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/codecs.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/codecs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/collections" afterPath="$PROJECT_DIR$/venv/lib/python3.5/collections" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/config-3.5m-x86_64-linux-gnu" afterPath="$PROJECT_DIR$/venv/lib/python3.5/config-3.5m-x86_64-linux-gnu" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/copy.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/copy.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/copyreg.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/copyreg.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/encodings" afterPath="$PROJECT_DIR$/venv/lib/python3.5/encodings" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/fnmatch.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/fnmatch.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/functools.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/functools.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/genericpath.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/genericpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/hashlib.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/hashlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/heapq.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/heapq.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/hmac.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/hmac.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/imp.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/imp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/importlib" afterPath="$PROJECT_DIR$/venv/lib/python3.5/importlib" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/io.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/io.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/keyword.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/keyword.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/lib-dynload" afterPath="$PROJECT_DIR$/venv/lib/python3.5/lib-dynload" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/linecache.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/linecache.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/locale.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/locale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/ntpath.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/ntpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/operator.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/operator.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/os.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/os.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/plat-x86_64-linux-gnu" afterPath="$PROJECT_DIR$/venv/lib/python3.5/plat-x86_64-linux-gnu" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/posixpath.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/posixpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/random.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/random.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/re.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/re.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/reprlib.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/reprlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/rlcompleter.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/rlcompleter.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/shutil.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/shutil.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/sre_compile.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/sre_compile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/sre_constants.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/sre_constants.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/sre_parse.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/sre_parse.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/stat.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/stat.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/struct.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/struct.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/tarfile.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/tarfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/tempfile.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/tempfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/token.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/token.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/tokenize.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/tokenize.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/types.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/types.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/warnings.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/warnings.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/weakref.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/weakref.py" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/__init__.py" afterPath="$PROJECT_DIR$/vergermiya_lightblog/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py" afterPath="$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/forms.py" afterPath="$PROJECT_DIR$/vergermiya_lightblog/forms.py" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/models.py" afterPath="$PROJECT_DIR$/vergermiya_lightblog/models.py" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html" />
+      <change beforePath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html" afterPath="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,15 +77,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lightblog$manage.coverage" NAME="manage Coverage Results" MODIFIED="1520233856877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/mnt/c/dev/project/python/flask/lightblog" />
+    <SUITE FILE_PATH="coverage/lightblog$manage.coverage" NAME="manage Coverage Results" MODIFIED="1520245248724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/mnt/c/dev/project/python/flask/lightblog" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/config.py">
+      <file leaf-file-name="blog.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="593">
+              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#531#951#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/new_post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/edit_post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -27,66 +117,21 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="-135">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#42#81#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="216">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-                <element signature="e#502#922#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#42#82#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -109,6 +154,15 @@
       <find>datetime</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Harevost" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -125,13 +179,19 @@
         <option value="$PROJECT_DIR$/views.py" />
         <option value="$PROJECT_DIR$/vergermiya_lightblog/controllers/__init__.py" />
         <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/index.html" />
-        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/extensions.py" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/__init__.py" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/login.html" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/controllers/account.py" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/register.html" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/vergermiya_lightblog/forms.py" />
         <option value="$PROJECT_DIR$/vergermiya_lightblog/models.py" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/new_post.html" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/edit_post.html" />
+        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html" />
         <option value="$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py" />
-        <option value="$PROJECT_DIR$/vergermiya_lightblog/__init__.py" />
-        <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html" />
       </list>
     </option>
   </component>
@@ -142,11 +202,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="624" />
-    <option name="y" value="35" />
+    <option name="x" value="620" />
+    <option name="y" value="26" />
     <option name="width" value="1262" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -180,6 +241,12 @@
               <item name="lightblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="lightblog" type="462c0819:PsiDirectoryNode" />
               <item name="vergermiya_lightblog" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lightblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lightblog" type="462c0819:PsiDirectoryNode" />
+              <item name="vergermiya_lightblog" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -203,8 +270,24 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bingsearchapitest" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -291,6 +374,14 @@
       <option name="presentableId" value="Default" />
       <updated>1519824564509</updated>
     </task>
+    <task id="LOCAL-00001" summary="Factory mode on create app">
+      <created>1520237440879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520237440879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -303,14 +394,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="624" y="35" width="1262" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="620" y="26" width="1262" height="1000" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.503367" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.496633" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28282827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -353,8 +443,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Factory mode on create app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory mode on create app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -375,7 +496,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -383,7 +506,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
           <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2161#2168#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -409,7 +535,7 @@
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#502#922#0" expanded="false" />
+            <element signature="e#531#951#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -427,7 +553,7 @@
         <state relative-caret-position="189">
           <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
-            <element signature="e#42#82#0" expanded="true" />
+            <element signature="e#41#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,7 +580,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2322">
           <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -464,7 +592,7 @@
           <caret line="72" column="35" lean-forward="false" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#502#922#0" expanded="false" />
+            <element signature="e#531#951#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -490,7 +618,7 @@
         <state relative-caret-position="432">
           <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
-            <element signature="e#42#82#0" expanded="true" />
+            <element signature="e#41#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -499,7 +627,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1539">
           <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2161#2168#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -515,7 +646,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -532,7 +665,7 @@
         <state relative-caret-position="567">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#42#82#0" expanded="true" />
+            <element signature="e#41#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -558,7 +691,7 @@
         <state relative-caret-position="108">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#42#82#0" expanded="true" />
+            <element signature="e#41#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -584,63 +717,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#502#922#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,21 +733,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/extensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="449">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding>
-            <element signature="e#42#82#0" expanded="true" />
+            <element signature="e#41#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/controllers/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="-139">
+          <caret line="58" column="47" lean-forward="true" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2161#2168#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/new_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/edit_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/templates/blog/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vergermiya_lightblog/controllers/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#531#951#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
